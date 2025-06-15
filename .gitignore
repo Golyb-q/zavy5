@@ -1,0 +1,15 @@
+# Игнорировать всё
+*
+
+# Явно разрешаем нужные файлы и папки
+!.gitignore
+!README.md
+
+!Documents/
+!Documents/WindowsPowerShell/
+!Documents/WindowsPowerShell/*
+
+!Documents/Progs/
+!Documents/Progs/CMD/
+!Documents/Progs/CMD/shntool.exe
+!Documents/Progs/CMD/ttaenc.exe
