@@ -9,7 +9,7 @@
 !Documents/WindowsPowerShell/
 !Documents/WindowsPowerShell/*
 
-!Documents/Progs/
-!Documents/Progs/CMD/
-!Documents/Progs/CMD/shntool.exe
-!Documents/Progs/CMD/ttaenc.exe
+!Documents/progs/
+!Documents/progs/CMD/
+!Documents/progs/CMD/shntool.exe
+!Documents/progs/CMD/ttaenc.exe
